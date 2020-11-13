@@ -56,7 +56,7 @@ $ yarn start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
 
 
 Made with ♥ by Pelizari :wave: [Get in touch!](https://www.linkedin.com/in/pelizari/)
