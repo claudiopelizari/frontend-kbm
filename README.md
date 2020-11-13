@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Frontend - KBM" title="Frontend - KBM" src=".images/logo-kabum-black.png" width="184px" />
+    <img alt="Frontend - KBM" title="Frontend - KBM" src=".src/images/logo-kabum-black.png" width="184px" />
 </h1>
 
 
