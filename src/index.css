@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url(images/bg6.jpg) no-repeat top center #171717;
+  /* background: url(images/bg1.jpg) no-repeat top center #ff7c00; */
+  background-size: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* =============================================
+MOBILE CUSTOMIZE 
+================================================   */
+@media only screen and (min-device-width: 320px) and (max-device-width: 960px) {
+
+
+/* header */
+  .sc-bdfBwQ.sc-fubCfw.dznFVP.iKnVGr.header {
+    width: 80%;
+}  
+
+/* menu */  
+.sc-lmoMRL.sc-iJuUWI.jxMvZW.gHBTyp.menu {
+  margin: 70px 0 0 0;  
+}
+
+/* cart */
+.sc-kstrdz.eregww.cart {
+  margin: 70px 0 0 15px;
+}
+
+/* filter */
+.sc-pFZIQ.fuAyVC.Filter {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 380px;
+}
+
+/* content */
+.sc-bdfBwQ.sc-dlfnbm.dznFVP.cqPoJL.Content {
+  width: 100%;
+  align-items: center;
+}
+
+/* product list items */
+.sc-bdfBwQ.sc-gsTCUz.dznFVP.ProductsList div {
+  margin: auto;
+  max-width: 170px;
+}
+
+/* product details */
+.sc-bdfBwQ.sc-eCssSg.dznFVP.MmZja.product-details {
+  width: 90%;
+}
+
+/* cart */
+.sc-bdfBwQ.sc-hKgILt.dznFVP.fGCdri.cart-details {
+  margin: 20px auto 100px auto;
+}
+
+.sc-bdfBwQ.sc-hKgILt.dznFVP.fGCdri.cart-details,
+.sc-bdfBwQ.sc-hKgILt.dznFVP.fGCdri.cart-details h2.sc-bkzZxe.sc-idOhPF.fIOwpr.cGMjmE,
+.sc-bdfBwQ.sc-jSgupP.dznFVP.kVIHZx, .sc-bdfBwQ.sc-kLgntA.dznFVP.lgSsZr {
+  width: 90%;
+  margin: auto;
+  display: block;
+}
+
+
+
+}
